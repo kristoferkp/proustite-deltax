@@ -1,0 +1,9 @@
+[submodule "proustite-firmware"]
+	path = proustite-firmware
+	url = https://github.com/kristoferkp/proustite-firmware
+[submodule "proustite-software"]
+	path = proustite-software
+	url = https://github.com/kristoferkp/proustite-python3
+[submodule "proustite-ml"]
+	path = proustite-ml
+	url = https://github.com/kristoferkp/proustite-ml
