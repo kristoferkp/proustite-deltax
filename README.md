@@ -54,6 +54,8 @@ Also when the motor stalled, the ESC reset itself and forgot all the PWM calibra
 
 I would recommend a simple DC motor with enough torque to grab balls and a H-bridge to control it.
 
+I have added the STEP file too. Have fun with it.
+
 ## Competition
 If I could, I would tell myself in the past to bring a reliable wireless connection.
 
